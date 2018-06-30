@@ -4,3 +4,7 @@ out/
 
 # OS
 .DS_Store
+
+# build
+.gradle
+build
