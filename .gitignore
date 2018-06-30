@@ -1,10 +1,14 @@
-# IntelliJ project files
+# Project files
+src/main/resources/config/firebaseAccountKey.json
+src/main/resources/config/app.properties
+
+# IntelliJ files
 .idea/
 out/
 
 # OS
 .DS_Store
 
-# build
+# Build
 .gradle
 build

@@ -1,0 +1,1 @@
+firebaseUrl={URL_TO_FIREBASE_DB}
